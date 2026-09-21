@@ -1,1 +1,1 @@
-Placez ici vos futurs logo, favicon et illustrations.
+Déposez ici vos futurs logo et favicon.
