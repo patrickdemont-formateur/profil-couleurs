@@ -1,0 +1,350 @@
+{
+  "title": "Profil de management par les couleurs",
+  "version": "2.0",
+  "scale": {
+    "min": 1,
+    "max": 6,
+    "leftPoints": {
+      "1": 3,
+      "2": 2,
+      "3": 1
+    },
+    "rightPoints": {
+      "4": 1,
+      "5": 2,
+      "6": 3
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "left": {
+        "text": "Je préfère un environnement de travail organisé et clairement structuré.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Je préfère un environnement de travail prévisible et serein.",
+        "color": "Vert"
+      }
+    },
+    {
+      "id": 2,
+      "left": {
+        "text": "Face à un objectif, je me concentre d'abord sur le résultat à atteindre.",
+        "color": "Rouge"
+      },
+      "right": {
+        "text": "Face à un objectif, je cherche d'abord à mobiliser les personnes concernées.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 3,
+      "left": {
+        "text": "Je préfère préparer les choses à l'avance pour savoir où je vais.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Je peux facilement improviser lorsque la situation l'exige.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 4,
+      "left": {
+        "text": "Dans un désaccord, je préfère dire clairement ce que je pense.",
+        "color": "Rouge"
+      },
+      "right": {
+        "text": "Dans un désaccord, je cherche d'abord à préserver une bonne relation avec les autres.",
+        "color": "Vert"
+      }
+    },
+    {
+      "id": 5,
+      "left": {
+        "text": "Je préfère trouver des idées en réfléchissant seul et de manière structurée.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Je préfère trouver des idées en échangeant librement avec les autres.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 6,
+      "left": {
+        "text": "Lorsque je dois convaincre, je m'appuie surtout sur mon enthousiasme et ma capacité à communiquer.",
+        "color": "Jaune"
+      },
+      "right": {
+        "text": "Lorsque je dois convaincre, je m'appuie surtout sur des arguments directs et concrets.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 7,
+      "left": {
+        "text": "Lorsque je travaille avec quelqu'un, je cherche d'abord à créer une relation de confiance.",
+        "color": "Vert"
+      },
+      "right": {
+        "text": "Lorsque je travaille avec quelqu'un, je cherche d'abord à clarifier les objectifs et les règles de fonctionnement.",
+        "color": "Bleu"
+      }
+    },
+    {
+      "id": 8,
+      "left": {
+        "text": "Face à une nouvelle situation, je préfère d'abord analyser les informations disponibles.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Face à une nouvelle situation, je préfère commencer rapidement et ajuster ensuite si nécessaire.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 9,
+      "left": {
+        "text": "Je crée facilement le contact avec des personnes que je connais peu.",
+        "color": "Jaune"
+      },
+      "right": {
+        "text": "Je préfère prendre le temps de connaître les personnes avant d'être vraiment à l'aise avec elles.",
+        "color": "Vert"
+      }
+    },
+    {
+      "id": 10,
+      "left": {
+        "text": "Quand une idée me plaît, je préfère d'abord réfléchir à la manière dont elle va être accueillie.",
+        "color": "Vert"
+      },
+      "right": {
+        "text": "Quand une idée me plaît, j'ai envie de la partager rapidement avec les autres.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 11,
+      "left": {
+        "text": "Lorsque la décision est difficile, je préfère prendre le temps de recueillir les avis.",
+        "color": "Vert"
+      },
+      "right": {
+        "text": "Lorsque la décision est difficile, je préfère trancher et avancer.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 12,
+      "left": {
+        "text": "Je préfère avoir la liberté de décider et d'agir rapidement.",
+        "color": "Rouge"
+      },
+      "right": {
+        "text": "Je préfère avoir la possibilité d'échanger, de proposer et d'influencer.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 13,
+      "left": {
+        "text": "Lorsque je présente quelque chose, je privilégie la précision et la solidité des informations.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Lorsque je présente quelque chose, je privilégie l'énergie et l'impact du message.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 14,
+      "left": {
+        "text": "Quand quelqu'un rencontre une difficulté, je commence naturellement par chercher les faits et les causes du problème.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Quand quelqu'un rencontre une difficulté, je commence naturellement par l'écouter.",
+        "color": "Vert"
+      }
+    },
+    {
+      "id": 15,
+      "left": {
+        "text": "Lorsqu'un problème apparaît, je cherche rapidement une solution pour débloquer la situation.",
+        "color": "Rouge"
+      },
+      "right": {
+        "text": "Lorsqu'un problème apparaît, je cherche d'abord à comprendre précisément son origine.",
+        "color": "Bleu"
+      }
+    },
+    {
+      "id": 16,
+      "left": {
+        "text": "Je suis généralement plus à l'aise lorsque je peux m'appuyer sur des repères stables.",
+        "color": "Vert"
+      },
+      "right": {
+        "text": "Je suis généralement à l'aise lorsque les choses bougent et changent rapidement.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 17,
+      "left": {
+        "text": "Dans une discussion, je cherche volontiers à trouver un accord qui convienne au groupe.",
+        "color": "Vert"
+      },
+      "right": {
+        "text": "Dans une discussion, je cherche volontiers à entraîner les autres dans mon idée.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 18,
+      "left": {
+        "text": "Pour prendre une décision, je préfère disposer d'informations précises et vérifiées.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Pour prendre une décision, je me fie facilement à mon jugement et à mon expérience.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 19,
+      "left": {
+        "text": "Je suis facilement stimulé par des relations de confiance et un environnement serein.",
+        "color": "Vert"
+      },
+      "right": {
+        "text": "Je suis facilement stimulé par les échanges, les rencontres et les nouvelles idées.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 20,
+      "left": {
+        "text": "Je préfère clarifier les choses avant de commencer.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Je préfère avancer même si tout n'est pas encore parfaitement défini.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 21,
+      "left": {
+        "text": "Lorsque je dois agir dans une situation nouvelle, je cherche à créer de l'adhésion autour de moi.",
+        "color": "Jaune"
+      },
+      "right": {
+        "text": "Lorsque je dois agir dans une situation nouvelle, je vais rapidement à l'essentiel et cherche à faire avancer la situation.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 22,
+      "left": {
+        "text": "Dans un projet, je suis particulièrement attentif au respect des méthodes, des informations et des critères définis.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Dans un projet, je suis particulièrement attentif à la qualité des relations entre les personnes.",
+        "color": "Vert"
+      }
+    },
+    {
+      "id": 23,
+      "left": {
+        "text": "Je suis surtout attentif à la faisabilité et aux informations disponibles.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Je suis surtout attiré par les nouvelles possibilités et les idées originales.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 24,
+      "left": {
+        "text": "Quand un objectif est important, je veille à ce que chacun puisse avancer dans de bonnes conditions.",
+        "color": "Vert"
+      },
+      "right": {
+        "text": "Quand un objectif est important, je peux privilégier le résultat même si cela demande d'être très direct.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 25,
+      "left": {
+        "text": "Quand un objectif est important, je veille à ce que chacun puisse avancer dans de bonnes conditions.",
+        "color": "Vert"
+      },
+      "right": {
+        "text": "Quand un objectif est important, je peux privilégier le résultat même si cela demande d'être très direct.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 26,
+      "left": {
+        "text": "Je peux prendre une décision rapidement même lorsque toutes les informations ne sont pas disponibles.",
+        "color": "Rouge"
+      },
+      "right": {
+        "text": "Je préfère prendre davantage de temps pour réduire le risque d'erreur.",
+        "color": "Bleu"
+      }
+    },
+    {
+      "id": 27,
+      "left": {
+        "text": "Je prends le temps d'échanger pour créer de l'adhésion autour de moi.",
+        "color": "Jaune"
+      },
+      "right": {
+        "text": "Je vais rapidement à l'essentiel et cherche à faire avancer la situation.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 28,
+      "left": {
+        "text": "Je préfère avancer progressivement en tenant compte des personnes concernées.",
+        "color": "Vert"
+      },
+      "right": {
+        "text": "Lorsqu'une situation doit évoluer, je préfère agir rapidement.",
+        "color": "Rouge"
+      }
+    },
+    {
+      "id": 29,
+      "left": {
+        "text": "Je préfère examiner les détails importants avant de construire une vision générale.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Je préfère commencer par une vision générale puis préciser progressivement.",
+        "color": "Jaune"
+      }
+    },
+    {
+      "id": 30,
+      "left": {
+        "text": "Je préfère définir une méthode précise pour que chacun sache exactement ce qu'il doit faire.",
+        "color": "Bleu"
+      },
+      "right": {
+        "text": "Je préfère prendre le temps nécessaire pour que chacun puisse avancer à son rythme.",
+        "color": "Vert"
+      }
+    }
+  ]
+}
